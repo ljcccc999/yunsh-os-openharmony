@@ -2,10 +2,10 @@
 
 Independent OpenHarmony side branch for YUNSH OS on Raspberry Pi 5.
 
-The `v3.0.1.6` line and earlier YUNSH OS releases are the mainline. This
-repository is a separate release channel: it has its own image, OTA manifest,
-version numbers, checksums and rollback path. It does not replace or update the
-mainline system.
+All Linux-based YUNSH OS releases are the mainline, including the current
+`v3.1.6` release. This repository is a separate OpenHarmony release channel:
+it has its own image, OTA manifest, version numbers, checksums and rollback
+path. It does not replace or update any Linux mainline system.
 
 ## What is published here
 
@@ -37,8 +37,8 @@ desktop needed to reach first use without GitHub. Optional extras may use a
 network connection, but a failed download must not block the desktop.
 
 Updates use only this repository's signed release manifest and OTA assets. They
-never use the mainline OTA channel. Do not install a mainline image or OTA over
-this side branch.
+never use any Linux mainline OTA channel. Do not install a mainline image or
+OTA over this side branch.
 
 ## Status
 

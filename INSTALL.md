@@ -31,7 +31,7 @@ initial setup is complete.
 Use the updater built into the same side-branch release. It verifies the signed
 manifest and package, stages the update atomically, keeps the previous slot for
 rollback and reboots only after verification. Do not point the updater at the
-mainline YUNSH OS release feed.
+any Linux mainline YUNSH OS release feed.
 
 Hardware limits and known issues are release-specific; read them before
 installing.
