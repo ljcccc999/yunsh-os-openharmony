@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="logo/logo-256.png" width="128" alt="YUNSH logo" />
+</p>
+
+<p align="center">
+  <strong>English</strong> | <a href="README.zh-CN.md">中文</a>
+</p>
+
 # YUNSH OS OpenHarmony
 
 Independent OpenHarmony side branch for YUNSH OS on Raspberry Pi 5.
